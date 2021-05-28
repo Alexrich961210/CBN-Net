@@ -1,0 +1,7 @@
+Start evaluating CBN-Net (K=2):
+Test: [0/79]	Time 0.940 (0.940)	Loss 0.1999 (0.1999)	Prec@1 96.094 (96.094)
+Test: [20/79]	Time 0.053 (0.096)	Loss 0.2716 (0.3100)	Prec@1 94.531 (93.006)
+Test: [40/79]	Time 0.054 (0.076)	Loss 0.2712 (0.3178)	Prec@1 91.406 (92.854)
+Test: [60/79]	Time 0.054 (0.068)	Loss 0.1535 (0.2911)	Prec@1 92.969 (92.969)
+ * Prec@1 92.970
+the best accuracy of CBN-Net (K=2) VGG-Small on Cifar-10 is 92.97 

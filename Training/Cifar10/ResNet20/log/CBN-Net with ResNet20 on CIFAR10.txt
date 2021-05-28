@@ -1,0 +1,14 @@
+Start evaluating CBN-Net (K=2):
+Test: [0/79]	Time 1.187 (1.187)	Loss 0.3398 (0.3398)	Prec@1 91.406 (91.406)
+Test: [20/79]	Time 0.032 (0.089)	Loss 0.3493 (0.4330)	Prec@1 92.969 (89.993)
+Test: [40/79]	Time 0.037 (0.062)	Loss 0.7697 (0.4545)	Prec@1 87.500 (90.168)
+Test: [60/79]	Time 0.033 (0.052)	Loss 0.6084 (0.4565)	Prec@1 86.719 (90.164)
+ * Prec@1 90.140
+the best accuracy of CBN-Net (K=2) ResNet20 on Cifar-10 is 90.14 
+Start evaluating CBN-Net (K=5):
+Test: [0/79]	Time 1.223 (1.223)	Loss 0.2494 (0.2494)	Prec@1 96.094 (96.094)
+Test: [20/79]	Time 0.091 (0.146)	Loss 0.2453 (0.3625)	Prec@1 94.531 (92.001)
+Test: [40/79]	Time 0.091 (0.119)	Loss 0.3032 (0.3527)	Prec@1 91.406 (91.959)
+Test: [60/79]	Time 0.091 (0.110)	Loss 0.3038 (0.3484)	Prec@1 92.969 (92.047)
+ * Prec@1 92.210
+the best accuracy of CBN-Net (K=5) ResNet20 on Cifar-10 is 92.21
